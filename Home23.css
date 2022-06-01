@@ -1,0 +1,66 @@
+body {
+  background:#0c4b5b;
+ /* background-color: #f5f5f5;*/
+}
+.a1 #a1,#a4,#a5 {
+  border-radius:2px;
+  text-decoration: none;
+  margin: 2% 20%;
+  background-color: #00ccff;
+  border: 1px solid #3f545a;
+  box-shadow: 2px 3px 4px #545d6045;
+  width: 18%;
+  padding: 3% 5% ;
+/*  display: flex;
+  flex-direction: row;
+  align-items: center;
+  */
+  justify-content: center;
+}
+.a1 #a2 {
+  border-radius:2px;
+  text-decoration: none;
+  margin: 2% 20%;
+  background-color: #00ccff;
+  border: 1px solid #3f545a;
+  box-shadow: 2px 3px 4px #545d6045;
+  max-width: 42%;
+  padding: 3% 5%;
+ /* display: flex;
+  flex-direction: 
+  */
+  align-items: center;
+  justify-content: center;
+  
+}
+.a1 #a3 {
+  border-radius:2px;
+  text-decoration: none;
+  margin: 2% 20%;
+  background-color: #00ccff;
+  border: 1px solid #3f545a;
+  box-shadow: 2px 3px 4px #545d6045;
+ /* display: flex;
+  max-width: 40%;
+  
+  */
+  padding: 3% 5% ;
+  align-items: center;
+  justify-content: center;
+  
+}
+ol{ box-shadow:2px 5px 10px #0001ff;
+display:flex;
+background:#0c4b5b;
+align-items:center ;
+/*justify-content:center ;*/
+flex-direction:column;
+margin:6px 4px 4px 8px;
+padding:38% 2% ;
+/*     x   y   x   y  */
+/*     -x   y   x   y 
+        Verticalxy Horizontexy
+        cimaX Hxy baixo
+        cima direita baixo esquerda*/
+
+}
